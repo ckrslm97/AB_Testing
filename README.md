@@ -8,9 +8,13 @@
  
  bombabomba.com’un web site bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgilerin yanı sıra buradan gelen kazanç bilgileri yer almaktadır.  Kontrolve Testgrubu olmak üzere iki ayrı veri seti vardır.
  
+ 
 # Değişkenler
 
- Impression - Reklam görüntüleme sayısı
+ Impression - Reklam görüntüleme sayısı 
+ 
  Click – Tıklama -> Görüntülenen reklama tıklanma sayısını belirtir.
+ 
  Purchase – Satın alım -> Tıklanan reklamlar sonrası satın alınan ürün sayısını belirtir.
+ 
  Earning – Kazanç -> Satın alınan ürünler sonrası elde edilen kazanç.
